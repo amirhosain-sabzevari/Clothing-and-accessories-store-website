@@ -1,0 +1,14 @@
+@keyframes slider-1 {
+    0% {
+        opacity: 0;
+  }
+    100% {
+        opacity: 1;
+  }
+}
+
+body #new-products .container {
+   width: 60%;
+
+}
+  
